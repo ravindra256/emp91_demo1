@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_emp91_demo1_table3</description>
+        <name>x_snc_emp91_demo1_table3</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2023-08-23 02:41:09</sys_created_on>
+        <sys_id>1039514a47f83910e56bcd62846d432c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_emp91_demo1_table3</sys_name>
+        <sys_package display_value="emp91_demo1" source="x_snc_emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_scope>
+        <sys_update_name>sys_security_acl_1039514a47f83910e56bcd62846d432c</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2023-08-23 02:41:09</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="emp91_demo1">b6861d4647f83910e56bcd62846d43f9</application>
+        <file_path/>
+        <instance_id>97a584b8db70a5180b9d21c4059619d1</instance_id>
+        <instance_name>emprlelgonda91</instance_name>
+        <name>sys_security_acl_1039514a47f83910e56bcd62846d432c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_emp91_demo1_table3</description>
+        <name>x_snc_emp91_demo1_table3</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2023-08-23 02:41:09</sys_created_on>
+        <sys_id>1039514a47f83910e56bcd62846d432c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_emp91_demo1_table3</sys_name>
+        <sys_package display_value="emp91_demo1" source="x_snc_emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_scope>
+        <sys_update_name>sys_security_acl_1039514a47f83910e56bcd62846d432c</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2023-08-23 02:41:09</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>]]></payload>
+        <payload_hash>347078128</payload_hash>
+        <record_name>x_snc_emp91_demo1_table3</record_name>
+        <reverted_from/>
+        <source>847bd5ca47f83910e56bcd62846d4398</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2023-08-23 02:51:03</sys_created_on>
+        <sys_id>d97b59ca47f83910e56bcd62846d430f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a204d7a3c0000001</sys_recorded_at>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2023-08-23 02:51:03</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>d57b59ca7ef839102649f3e0e056320f</update_guid>
+        <update_guid_history>d57b59ca7ef839102649f3e0e056320f:0,b44b91cad6f839106597489e2332421d:-914039058,ac39514a21f839105a31931c8dfa392d:1864316642</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2023-08-23 12:56:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>a1da20b1464f4ac09895d449a9c7a444</sys_id>
+        <sys_metadata>1039514a47f83910e56bcd62846d432c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_emp91_demo1_table3</sys_name>
+        <sys_package display_value="emp91_demo1" source="x_snc_emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_package>
+        <sys_parent display_value="">e07bd5ca47f83910e56bcd62846d43a0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_scope>
+        <sys_scope_delete display_value="">625e764c1adf434490197f0ad0b9ef10</sys_scope_delete>
+        <sys_update_name>sys_security_acl_1039514a47f83910e56bcd62846d432c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_1039514a47f83910e56bcd62846d432c">d97b59ca47f83910e56bcd62846d430f</sys_update_version>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2023-08-23 12:56:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="table3">5c39514a47f83910e56bcd62846d4326</application>
+        <filter/>
+        <name>table3s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_emp91_demo1.table3_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2023-08-23 02:41:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5439514a47f83910e56bcd62846d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table3s</sys_name>
+        <sys_package display_value="emp91_demo1" source="x_snc_emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_scope>
+        <sys_update_name>sys_ui_module_5439514a47f83910e56bcd62846d4329</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2023-08-23 02:41:09</sys_updated_on>
+        <table>x_snc_emp91_demo1_table3</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="emp91_demo1">b6861d4647f83910e56bcd62846d43f9</application>
+        <file_path/>
+        <instance_id>97a584b8db70a5180b9d21c4059619d1</instance_id>
+        <instance_name>emprlelgonda91</instance_name>
+        <name>sys_ui_module_5439514a47f83910e56bcd62846d4329</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="table3">5c39514a47f83910e56bcd62846d4326</application>
+        <filter/>
+        <name>table3s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_emp91_demo1.table3_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2023-08-23 02:41:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5439514a47f83910e56bcd62846d4329</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table3s</sys_name>
+        <sys_package display_value="emp91_demo1" source="x_snc_emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_scope>
+        <sys_update_name>sys_ui_module_5439514a47f83910e56bcd62846d4329</sys_update_name>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2023-08-23 02:41:09</sys_updated_on>
+        <table>x_snc_emp91_demo1_table3</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>]]></payload>
+        <payload_hash>1529295281</payload_hash>
+        <record_name>table3s</record_name>
+        <reverted_from/>
+        <source>847bd5ca47f83910e56bcd62846d4398</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2023-08-23 02:51:04</sys_created_on>
+        <sys_id>a57b59ca47f83910e56bcd62846d43a5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a204d7e880000001</sys_recorded_at>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2023-08-23 02:51:04</sys_updated_on>
+        <type>Module</type>
+        <update_guid>a17b59caf8f8391020a2f2c9e9b0b0a5</update_guid>
+        <update_guid_history>a17b59caf8f8391020a2f2c9e9b0b0a5:0,384b91ca3ef83910f770ac5ecbe43c3f:-536843264,d839514a4bf839103025c56e3f875d2a:1417756891</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>ravindra.lelgonda@snc</sys_created_by>
+        <sys_created_on>2023-08-23 12:56:31</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>1604c10b1a97446c8b630c7899dc3129</sys_id>
+        <sys_metadata>5439514a47f83910e56bcd62846d4329</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table3s</sys_name>
+        <sys_package display_value="emp91_demo1" source="x_snc_emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="emp91_demo1">b6861d4647f83910e56bcd62846d43f9</sys_scope>
+        <sys_scope_delete display_value="">625e764c1adf434490197f0ad0b9ef10</sys_scope_delete>
+        <sys_update_name>sys_ui_module_5439514a47f83910e56bcd62846d4329</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_5439514a47f83910e56bcd62846d4329">a57b59ca47f83910e56bcd62846d43a5</sys_update_version>
+        <sys_updated_by>ravindra.lelgonda@snc</sys_updated_by>
+        <sys_updated_on>2023-08-23 12:56:31</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
